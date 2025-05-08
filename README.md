@@ -28,7 +28,7 @@ A simple console-based Java application to manage employee records. This project
 ```git clone https://github.com/OwenTheCoder13/EmployeeManagementSystem.git```
 
 2. Navigate to the source directory
-```cd EmployeeManagementSystem/src/employeeManagementSystem```
+```cd EmployeeManagementSystem```
 
 3. Compile and run the project
 ```javac Employee.java EmployeeManager.java```
