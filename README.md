@@ -33,3 +33,8 @@ A simple console-based Java application to manage employee records. This project
 3. Compile and run the project
 ```javac Employee.java EmployeeManager.java```
 ```java EmployeeManager```
+
+**📷 Sample Output**
+
+![image](https://github.com/user-attachments/assets/ee008497-cb4c-493e-a3f1-25d709aa503e)
+
